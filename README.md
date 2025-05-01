@@ -55,6 +55,8 @@ The creation of this HR analytics dashboard using Power BI marks a significant m
 
 As we continue to evolve our workforce analytics capabilities, Power BI will remain an essential component of our decision-making toolkit, helping us build a stronger, more resilient organization.
 
+## Output
+
 ![Image](https://github.com/user-attachments/assets/09356390-d0c9-4060-9cbe-bcbf30333b30)
 ![Image](https://github.com/user-attachments/assets/763638f1-960d-445b-9251-740f304e92e2)
 
