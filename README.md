@@ -54,3 +54,7 @@ One of the greatest strengths of the Power BI dashboard is its ability to provid
 The creation of this HR analytics dashboard using Power BI marks a significant milestone in our journey toward data-driven human resource management. By shifting from reactive to proactive approaches, we are better equipped to anticipate challenges, retain talent, and align HR practices with broader organizational goals. This project demonstrates the immense value that business intelligence tools can bring to HR—not just in visualizing data, but in transforming it into strategic action.
 
 As we continue to evolve our workforce analytics capabilities, Power BI will remain an essential component of our decision-making toolkit, helping us build a stronger, more resilient organization.
+
+![Image](https://github.com/user-attachments/assets/09356390-d0c9-4060-9cbe-bcbf30333b30)
+![Image](https://github.com/user-attachments/assets/763638f1-960d-445b-9251-740f304e92e2)
+
